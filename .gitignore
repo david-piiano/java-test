@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+piiano-scanner
 
 # BlueJ files
 *.ctxt
